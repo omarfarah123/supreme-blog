@@ -1,15 +1,15 @@
 [
     {
-      "post_title": "Advice",
-      "post_text": "Time is like a sword cut it before it cuts you."
+      "post_title": "TBH",
+      "post_text": "In all honesty i belive C# is better than python."
     },
     {
         "post_title": "Mood",
-        "post_text": "Im sad today because my son got the corona virus. Hopefully he will be fine"
+        "post_text": "Im sad today because my project is no longer supported"
     },
     {
-        "post_title": "Help with math problem",
-        "post_text": "I am struggling with the HW for math can anyone help me with 5-15?"
+        "post_title": "Best place to find devs",
+        "post_text": "When trying to network, the best place to find devs would be hackathons."
     }
   ]
   
