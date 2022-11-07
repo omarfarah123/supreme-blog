@@ -1,7 +1,7 @@
 # The Tech Blog
 [![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-green.svg)](https://opensource.org/licenses/AFL-3.0)
 #### Table of Contents
-- [All=Pro-README-Generator](#all-pro-readme-generator)
+- [The Tech Blog](#the-tech-blog)
 - [Table of Contents:](#table-of-contents-)
   * [Description](#description)
   * [Installation](#installation) 
